@@ -1,0 +1,5 @@
+en:
+  theme_metadata:
+    description: Add button to user card and profile
+    settings:
+      example_setting: A description of a setting.
