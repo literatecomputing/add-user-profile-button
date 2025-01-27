@@ -1,2 +1,12 @@
-example_setting:
-  default: true
+button_url:
+  default: /s
+  description: "URL to link to on the button"
+button_text:
+  default: "Message"
+  description: "Text to display on the button"
+button_icon:
+  default: "envelope"
+  description: "Icon to display on the button"
+exempt_group:
+  default: "Subscribers"
+  description: "Name of group that should not see the button"
