@@ -1,6 +1,6 @@
 # add-user-profile-button
 
-**Add button to user card and user profile **
+** Add button to user card and user profile **
 
 Add a button to the user card and user profile under the other buttons (e.g., "Message", "Chat", etc...) unless the user is in the group specified in the "Exempt Group" theme setting.
 
